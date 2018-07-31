@@ -1,0 +1,32 @@
+body {
+  background: url("../img/burger-img.jpg");
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background-color: white;
+}
+
+.form-group {
+  padding: 5px;
+  margin: 5px;
+}
+
+.text-center {
+  color: Blue;
+}
+
+#headLine {
+  font-family: 'Hanalei Fill', cursive;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+#head-letter {
+  font-size: 10rem;
+}
